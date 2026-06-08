@@ -16,10 +16,10 @@ Proyecto de titulación — Analista Programador, Duoc UC.
 
 ## Tecnologías
 
-- **Frontend: Ionic, Angular, TypeScript, Tailwind CSS
-- **Backend: Node.js, TypeScript, Python
-- **Base de datos: SQLite, Firebase
-- **Herramientas: Figma, Azure DevOps
+- Frontend: Ionic, Angular, TypeScript, Tailwind CSS
+- Backend: Node.js, TypeScript, Python
+- Base de datos: SQLite, Firebase
+- Herramientas: Figma, Azure DevOps
 
 ## Funcionalidades
 
