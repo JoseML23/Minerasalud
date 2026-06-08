@@ -3,6 +3,8 @@
 Aplicación móvil orientada al monitoreo y optimización 
 de la calidad de vida de trabajadores mineros.
 
+![Visualizacion](resources/Diseño sin título.png)
+
 ## Descripción
 
 MineraSalud permite a los usuarios registrar y hacer 
