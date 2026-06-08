@@ -3,7 +3,7 @@
 Aplicación móvil orientada al monitoreo y optimización 
 de la calidad de vida de trabajadores mineros.
 
-![Visualizacion](resources/Diseño sin título.png)
+![Visualizacion](https://github.com/JoseML23/Minerasalud/blob/main/resources/Dise%C3%B1o%20sin%20t%C3%ADtulo.png)
 
 ## Descripción
 
